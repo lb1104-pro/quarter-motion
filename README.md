@@ -1,4 +1,5 @@
 # quarter-motion
 -import a video into the program
--program alanyze 4 poses every second
+-program analyze 4 poses every second
+-convert them into 3D motions
 -link them
