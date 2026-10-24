@@ -10,3 +10,24 @@ for example, I have  a movie that a man running 10 seconds. I input that movie, 
 one second per one character modeling,skeleton of a human(face, bone,skin, environment...)
 -Then combine every characters as one animation
 -you open blender.exe and operate it on blender
+
+===============
+
+Movie
+ |
+ ↓
+AI Vision
+ |
+ ↓
+3D Reconstruction
+ |
+ ↓
+Motion Analysis
+ |
+ ↓
+Physics Analysis
+ |
+ ↓
+Interactive 3D Movie
+
+=================
