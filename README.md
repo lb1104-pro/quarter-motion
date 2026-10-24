@@ -6,3 +6,4 @@ I input an acting video that real human act
 for example, I have  a movie that a man running 10 seconds. I input that movie, then you analyze the every second movement of a man.
 one second per one character modeling,skeleton of a human(face, bone,skin, environment...)
 -Then combine every characters as one animation
+-you open blender.exe and operate it on blender
