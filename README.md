@@ -1,4 +1,7 @@
 # quarter-motion
+
+*I wanna build an AI project that export scanned 3D model of characters and environment moving like the movie when I import a movie. And also it must be able to produce some frames of that 3D video that can presents that video.*
+
 I input an acting video that real human act
 -you render the 3D modeling character every seconds.
 -then you link the every scene, I mean link the animation.
